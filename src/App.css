@@ -266,6 +266,7 @@
     line-height: 1;
     margin-bottom: 20px;
     display: block;
+    height: 31dvh;
   }
 
   .banner .wrap{
